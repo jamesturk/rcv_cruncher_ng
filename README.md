@@ -1,6 +1,6 @@
 # rcv_cruncher
 
-**Currently forked from https://github.com/fairvotereform/rcv_cruncher/ withtruncated history due to large file issues in prior git history.**
+**Currently forked from https://github.com/fairvotereform/rcv_cruncher/ with truncated history due to large file issues in prior git history.**
 
 A python package for tabulating and analysing Ranked Choice Voting results.
 
